@@ -1,0 +1,13 @@
+.style1{
+    background: linear-gradient(to right, #1AE6E6, #DD4822);
+    border-radius: 15px;
+    box-shadow:4px 4px 5px 3px #999;
+    font-size:30px;
+    text-align: center;
+    border:5px solid#FFFF00;
+
+
+}
+.style2{
+    background-color: cornflowerblue;
+}
